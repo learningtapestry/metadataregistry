@@ -1,3 +1,5 @@
+# DEPRECATED - THIS CODE BASE IS NO LONGER MAINTAINED
+
 # Metadata Registry API version 2.0
 
 [![Codeship Status][codeship-badge]][codeship]
